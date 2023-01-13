@@ -1,6 +1,6 @@
 - 👋 Hi, I am Mukesh Tiwari
 - 👀 I am interested in formal verification (Coq theorem prover), election security, cryptography, and social choice theory.
-- 🌱 I’m currently learning ZKSNARK because I belive it can change the landscape of electronic voting.
+- 🌱 I’m currently learning ZKSNARK because I belive it can change the landscape of electronic voting (no, it is not blockchain).
 - 💞️ I’m looking to collaborate on formal verification of cryptographic primitives, vote-counting algorithms.
 - 📫 How to reach me mukeshtiwari.iiitm@gmail.com
 
